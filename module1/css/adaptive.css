@@ -1,0 +1,221 @@
+@media screen and (max-width: 400px) {
+    .header__nav a {
+        margin: 0 30px 0 0;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .header__headline {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .header__headline, .headline__title, .headline__description {
+      width: 100%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .headline__description {
+        margin: 0 auto 50px auto;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .headline__img img, .items_img img {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 2000px)  and (min-width: 1600px) {
+    .headline__img {
+        right: -70%;
+    }
+}
+
+@media screen and (max-width: 3000px)  and (min-width: 2000px) {
+    .headline__img {
+        right: -50%;
+    }
+}
+
+@media screen and (max-width: 4000px)  and (min-width: 3000px) {
+    .headline__img {
+        right: -55%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .main__whoweare {
+        margin: 50px 0 0 0;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .text__title {
+        margin: 0 auto;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .text__description {
+        margin: 0 auto;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .main__features {
+        margin: 50px 0 0 0;
+        
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .features__title {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .features__description {
+        width: 100%;
+        margin: 20px auto 0 auto;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .features__items div:nth-child(-n+1) {
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .items__search img, .items__access img, .items__print img, .items__security img {
+       display: none;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .items__access {
+        margin: 0 0 20px 0; 
+    }
+}
+
+@media screen and (min-width: 2000px) {
+    .items__access {
+        margin: 0 0 0 0; 
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .items__print {
+        margin: 0 0 20px 0; 
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .items__security {
+        margin: 0 0 20px 0; 
+    }
+}
+
+@media screen and (min-width: 2000px) {
+    .items__security {
+        margin: 0 0 0 0; 
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .features__items {
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .search__title, .access__title, .print__title, .security__title {
+        margin: 20px 0 20px 0;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .search__description, .access__description, .print__description, .security__description {
+        margin: 0 auto 20px auto;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .items__btn {
+        margin: 70px 0 0 150px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .main__testimonials {
+        margin: 50px 0 50px 0;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .testimonials__title {
+        padding: 10px 0 0 20px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .testimonials__slides {
+        margin: 20px 0 0 20px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    footer {
+        height: 320px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    hr {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .item__logo {
+        margin: 0 0 20px 0;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .logo__text {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .item__title {
+        margin: 0 0 10px 0;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .item__description {
+        margin: 0 0 10px 0;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .container__social:not(:last-child) {
+        margin: 0 0 15px 0;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .item__container {
+        flex-direction: column;
+        margin: 0 0 15px 20px;
+        ;
+    }
+}
